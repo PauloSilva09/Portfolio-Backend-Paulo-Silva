@@ -1,0 +1,22 @@
+@media screen and (max-width: 600px){
+    #ajustaBanner{
+        height: 80vh;
+    }
+    
+    .banner h1 {
+        font-size: 3rem;
+    }
+
+    .nomeOutraCor{
+        font-size: 3rem;
+    }
+    
+    .gradeProjetos {
+    gap: 55px;
+    }
+
+    .cardProjeto{
+        height: 415px;
+    width: 100%;
+    }
+}
